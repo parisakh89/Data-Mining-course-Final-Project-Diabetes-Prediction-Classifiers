@@ -1,2 +1,6 @@
 # Data-Mining-course-Final-Project-Diabetes-Prediction-Classifiers
-This repository houses the Diabetes Prediction project of Data Mining course. It includes Python implementations and analysis of 4 classifiers (Neural Networks, Decision Trees, KNN, and SVM) for diabetes prediction, showcasing model validation and optimization technique
+This repository houses a comprehensive Diabetes Prediction project of the Data Mining course. It includes Python implementations and analysis of 4 classifiers (Neural Networks, Decision Trees, KNN, and SVM) for diabetes prediction, showcasing model validation and optimization techniques.
+
+The project focuses on creating a classification system to accurately predict diabetes in patients using a specified dataset. Leveraging the power of Python, the system implements and validates every 4 classifiers, chosen for their effectiveness in handling complex data patterns and classification tasks. Through meticulous experimentation, including cross-validation and parameter tuning with tools such as GridSearchCV and RandomizedSearchCV, the project explores the performance, optimization, and potential improvements of these classifiers. It provides detailed insights into the selection rationale, performance assessment, and enhancement strategies for each classifier, alongside a thoughtful conclusion on the findings, limitations, and prospects of the diabetes prediction system.
+
+I achieved a notable accuracy score of 0.81 with both the MLP Classifier and SVC, highlighting the potential of machine learning in healthcare analytics.
